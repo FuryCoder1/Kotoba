@@ -1,0 +1,1108 @@
+[
+  {
+    "character": "一",
+    "strokeCount": 1,
+    "grade": 1,
+    "jlpt": "N5",
+    "onyomi": [
+      "イチ"
+    ],
+    "kunyomi": [
+      "ひと.つ"
+    ],
+    "meanings": [
+      "one",
+      "1"
+    ],
+    "radicals": [
+      "rad-010"
+    ],
+    "mnemonic": "A single horizontal stroke: the horizon as you count your first step out of Hokkaido.",
+    "exampleWords": [
+      "一日",
+      "一人"
+    ]
+  },
+  {
+    "character": "日",
+    "strokeCount": 4,
+    "grade": 1,
+    "jlpt": "N5",
+    "onyomi": [
+      "ニチ",
+      "ジツ"
+    ],
+    "kunyomi": [
+      "ひ",
+      "-か"
+    ],
+    "meanings": [
+      "sun",
+      "day"
+    ],
+    "radicals": [
+      "rad-212"
+    ],
+    "mnemonic": "The sun disc with a line of light across it; every day (day) the sun rises.",
+    "exampleWords": [
+      "日本",
+      "火曜日"
+    ]
+  },
+  {
+    "character": "月",
+    "strokeCount": 4,
+    "grade": 1,
+    "jlpt": "N5",
+    "onyomi": [
+      "ゲツ",
+      "ガツ"
+    ],
+    "kunyomi": [
+      "つき"
+    ],
+    "meanings": [
+      "moon",
+      "month"
+    ],
+    "radicals": [
+      "rad-213"
+    ],
+    "mnemonic": "A crescent moon split by two beams of light; a month is one full cycle of the moon.",
+    "exampleWords": [
+      "月曜",
+      "一月"
+    ]
+  },
+  {
+    "character": "水",
+    "strokeCount": 4,
+    "grade": 1,
+    "jlpt": "N5",
+    "onyomi": [
+      "スイ"
+    ],
+    "kunyomi": [
+      "みず",
+      "みずがれい"
+    ],
+    "meanings": [
+      "water"
+    ],
+    "radicals": [
+      "rad-085"
+    ],
+    "mnemonic": "A central stream splashing droplets to both sides — water flowing down a mountain.",
+    "exampleWords": [
+      "水",
+      "水果"
+    ]
+  },
+  {
+    "character": "木",
+    "strokeCount": 4,
+    "grade": 1,
+    "jlpt": "N5",
+    "onyomi": [
+      "ボク",
+      "モク"
+    ],
+    "kunyomi": [
+      "き",
+      "-ぎ"
+    ],
+    "meanings": [
+      "tree",
+      "wood"
+    ],
+    "radicals": [
+      "rad-214"
+    ],
+    "mnemonic": "Branches reaching up from a trunk, roots spreading below: a tree.",
+    "exampleWords": [
+      "木",
+      "森"
+    ]
+  },
+  {
+    "character": "林",
+    "strokeCount": 8,
+    "grade": 1,
+    "jlpt": "N5",
+    "onyomi": [
+      "リン"
+    ],
+    "kunyomi": [
+      "はやし"
+    ],
+    "meanings": [
+      "grove",
+      "thicket"
+    ],
+    "radicals": [
+      "rad-214"
+    ],
+    "components": [
+      "木",
+      "木"
+    ],
+    "mnemonic": "Two trees standing side by side make a grove.",
+    "exampleWords": [
+      "森林",
+      "林"
+    ]
+  },
+  {
+    "character": "森",
+    "strokeCount": 15,
+    "grade": 1,
+    "jlpt": "N5",
+    "onyomi": [
+      "シン"
+    ],
+    "kunyomi": [
+      "もり"
+    ],
+    "meanings": [
+      "forest",
+      "woods"
+    ],
+    "radicals": [
+      "rad-214"
+    ],
+    "components": [
+      "木",
+      "木",
+      "木"
+    ],
+    "mnemonic": "Three trees stacked into a canopy — that's a whole forest.",
+    "exampleWords": [
+      "森林"
+    ]
+  },
+  {
+    "character": "人",
+    "strokeCount": 2,
+    "grade": 1,
+    "jlpt": "N5",
+    "onyomi": [
+      "ジン",
+      "ニン"
+    ],
+    "kunyomi": [
+      "ひと"
+    ],
+    "meanings": [
+      "person",
+      "people"
+    ],
+    "radicals": [
+      "rad-178"
+    ],
+    "mnemonic": "Two legs striding forward — a person walking the road to Tokyo.",
+    "exampleWords": [
+      "人",
+      "会社員"
+    ]
+  },
+  {
+    "character": "大",
+    "strokeCount": 3,
+    "grade": 1,
+    "jlpt": "N5",
+    "onyomi": [
+      "ダイ",
+      "たい"
+    ],
+    "kunyomi": [
+      "おお.い"
+    ],
+    "meanings": [
+      "big",
+      "large"
+    ],
+    "radicals": [
+      "rad-178",
+      "rad-010"
+    ],
+    "components": [
+      "一",
+      "人"
+    ],
+    "mnemonic": "A person stretching their arms out as wide as possible: BIG.",
+    "exampleWords": [
+      "大阪",
+      "大きい"
+    ]
+  },
+  {
+    "character": "小",
+    "strokeCount": 3,
+    "grade": 1,
+    "jlpt": "N5",
+    "onyomi": [
+      "ショウ"
+    ],
+    "kunyomi": [
+      "ちい.さい",
+      "こ-",
+      "お-"
+    ],
+    "meanings": [
+      "small",
+      "little"
+    ],
+    "radicals": [
+      "rad-013",
+      "rad-004"
+    ],
+    "mnemonic": "A tiny sprout with two small droplets beside it: small.",
+    "exampleWords": [
+      "小さい"
+    ]
+  },
+  {
+    "character": "口",
+    "strokeCount": 3,
+    "grade": 1,
+    "jlpt": "N5",
+    "onyomi": [
+      "コウ"
+    ],
+    "kunyomi": [
+      "くち"
+    ],
+    "meanings": [
+      "mouth",
+      "opening"
+    ],
+    "radicals": [
+      "rad-030"
+    ],
+    "mnemonic": "An open mouth ready to order yakitori.",
+    "exampleWords": [
+      "入口",
+      "山口"
+    ]
+  },
+  {
+    "character": "目",
+    "strokeCount": 5,
+    "grade": 1,
+    "jlpt": "N5",
+    "onyomi": [
+      "モク",
+      "ボク"
+    ],
+    "kunyomi": [
+      "め",
+      "-め"
+    ],
+    "meanings": [
+      "eye",
+      "look"
+    ],
+    "radicals": [
+      "rad-170"
+    ],
+    "mnemonic": "An eye seen from the side, pupil and lashes stacked.",
+    "exampleWords": [
+      "目",
+      "見る"
+    ]
+  },
+  {
+    "character": "山",
+    "strokeCount": 3,
+    "grade": 1,
+    "jlpt": "N5",
+    "onyomi": [
+      "サン"
+    ],
+    "kunyomi": [
+      "やま"
+    ],
+    "meanings": [
+      "mountain"
+    ],
+    "radicals": [
+      "rad-202"
+    ],
+    "mnemonic": "Three peaks rising from the plain — Mt. Fuji flanked by two smaller hills.",
+    "exampleWords": [
+      "山",
+      "北海道"
+    ]
+  },
+  {
+    "character": "川",
+    "strokeCount": 3,
+    "grade": 1,
+    "jlpt": "N5",
+    "onyomi": [
+      "セン"
+    ],
+    "kunyomi": [
+      "かわ"
+    ],
+    "meanings": [
+      "river",
+      "stream"
+    ],
+    "radicals": [
+      "rad-048"
+    ],
+    "mnemonic": "Three currents rushing between the banks.",
+    "exampleWords": [
+      "川",
+      "小川"
+    ]
+  },
+  {
+    "character": "火",
+    "strokeCount": 4,
+    "grade": 1,
+    "jlpt": "N5",
+    "onyomi": [
+      "カ"
+    ],
+    "kunyomi": [
+      "ひ",
+      "-び"
+    ],
+    "meanings": [
+      "fire",
+      "flame"
+    ],
+    "radicals": [
+      "rad-086"
+    ],
+    "mnemonic": "Sparks flying up from a central flame — fire under the yakitori grill.",
+    "exampleWords": [
+      "火曜日",
+      "花火"
+    ]
+  },
+  {
+    "character": "車",
+    "strokeCount": 7,
+    "grade": 1,
+    "jlpt": "N5",
+    "onyomi": [
+      "シャ"
+    ],
+    "kunyomi": [
+      "くるま"
+    ],
+    "meanings": [
+      "car",
+      "vehicle"
+    ],
+    "radicals": [
+      "rad-159"
+    ],
+    "mnemonic": "A wheel with an axle top and bottom: a vehicle.",
+    "exampleWords": [
+      "電車",
+      "自動車"
+    ]
+  },
+  {
+    "character": "電",
+    "strokeCount": 5,
+    "grade": 2,
+    "jlpt": "N5",
+    "onyomi": [
+      "デン"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "electricity"
+    ],
+    "radicals": [
+      "rad-140",
+      "rad-159"
+    ],
+    "components": [
+      "雨",
+      "乚"
+    ],
+    "mnemonic": "Lightning (rain radical) stored in a bent wire — electricity.",
+    "exampleWords": [
+      "電車",
+      "電話"
+    ]
+  },
+  {
+    "character": "学",
+    "strokeCount": 8,
+    "grade": 1,
+    "jlpt": "N5",
+    "onyomi": [
+      "ガク"
+    ],
+    "kunyomi": [
+      "まな.ぶ"
+    ],
+    "meanings": [
+      "study",
+      "learn"
+    ],
+    "radicals": [
+      "rad-140",
+      "rad-075",
+      "rad-236"
+    ],
+    "components": [
+      "爫",
+      "冖",
+      "子"
+    ],
+    "mnemonic": "A child (子) sheltered under a roof, hands (爫) reaching for knowledge.",
+    "exampleWords": [
+      "学校",
+      "学生"
+    ]
+  },
+  {
+    "character": "生",
+    "strokeCount": 5,
+    "grade": 1,
+    "jlpt": "N5",
+    "onyomi": [
+      "セイ",
+      "ショウ"
+    ],
+    "kunyomi": [
+      "い.る",
+      "う.む",
+      "き"
+    ],
+    "meanings": [
+      "life",
+      "birth",
+      "grow"
+    ],
+    "radicals": [
+      "rad-223"
+    ],
+    "mnemonic": "A sprout pushing through layers of soil: life growing.",
+    "exampleWords": [
+      "学生",
+      "先生"
+    ]
+  },
+  {
+    "character": "先",
+    "strokeCount": 6,
+    "grade": 2,
+    "jlpt": "N5",
+    "onyomi": [
+      "セン"
+    ],
+    "kunyomi": [
+      "さき",
+      "-さき"
+    ],
+    "meanings": [
+      "before",
+      "ahead",
+      "previous"
+    ],
+    "radicals": [
+      "rad-162",
+      "rad-075"
+    ],
+    "components": [
+      "ノ",
+      "一",
+      "止"
+    ],
+    "mnemonic": "A foot (止) stepping forward under a slash — ahead, before.",
+    "exampleWords": [
+      "先生",
+      "先週"
+    ]
+  },
+  {
+    "character": "食",
+    "strokeCount": 9,
+    "grade": 2,
+    "jlpt": "N5",
+    "onyomi": [
+      "ショク",
+      "じき"
+    ],
+    "kunyomi": [
+      "た.べる",
+      "く.う"
+    ],
+    "meanings": [
+      "eat",
+      "food",
+      "meal"
+    ],
+    "radicals": [
+      "rad-144"
+    ],
+    "components": [
+      "人",
+      "良minus",
+      "巳"
+    ],
+    "mnemonic": "A lid over a person bending toward a bowl: eating.",
+    "exampleWords": [
+      "食べ物",
+      "食事"
+    ]
+  },
+  {
+    "character": "飲",
+    "strokeCount": 12,
+    "grade": 3,
+    "jlpt": "N5",
+    "onyomi": [
+      "イン"
+    ],
+    "kunyomi": [
+      "の.む",
+      "-の.み"
+    ],
+    "meanings": [
+      "drink"
+    ],
+    "radicals": [
+      "rad-144",
+      "rad-133"
+    ],
+    "components": [
+      "飠",
+      "欠"
+    ],
+    "mnemonic": "Food (饣) beside someone opening their mouth wide (欠) to drink beer.",
+    "exampleWords": [
+      "飲む",
+      "飲料"
+    ]
+  },
+  {
+    "character": "行",
+    "strokeCount": 6,
+    "grade": 2,
+    "jlpt": "N5",
+    "onyomi": [
+      "コウ",
+      "ギョウ",
+      "アン"
+    ],
+    "kunyomi": [
+      "い.く",
+      "ゆ.く",
+      "おこな.う"
+    ],
+    "meanings": [
+      "go",
+      "row",
+      "line"
+    ],
+    "radicals": [
+      "rad-144"
+    ],
+    "mnemonic": "Crossroads (彳 +亍) — the act of going.",
+    "exampleWords": [
+      "行く",
+      "行きます"
+    ]
+  },
+  {
+    "character": "東",
+    "strokeCount": 5,
+    "grade": 2,
+    "jlpt": "N5",
+    "onyomi": [
+      "トウ"
+    ],
+    "kunyomi": [
+      "ひがし"
+    ],
+    "meanings": [
+      "east"
+    ],
+    "radicals": [
+      "rad-214",
+      "rad-010"
+    ],
+    "components": [
+      "十",
+      "日"
+    ],
+    "mnemonic": "The sun (日) rising through the branches of a tree — the East.",
+    "exampleWords": [
+      "東京",
+      "関東"
+    ]
+  },
+  {
+    "character": "京",
+    "strokeCount": 8,
+    "grade": 2,
+    "jlpt": "N5",
+    "onyomi": [
+      "キョウ",
+      "ケイ",
+      "キン"
+    ],
+    "kunyomi": [
+      "みやこ"
+    ],
+    "meanings": [
+      "capital",
+      "metropolis"
+    ],
+    "radicals": [
+      "rad-192",
+      "rad-030",
+      "rad-013"
+    ],
+    "components": [
+      "亠",
+      "口",
+      "小"
+    ],
+    "mnemonic": "A grand building (亠 + 口) on a small hill — the capital city.",
+    "exampleWords": [
+      "東京",
+      "京都"
+    ]
+  },
+  {
+    "character": "西",
+    "strokeCount": 6,
+    "grade": 2,
+    "jlpt": "N5",
+    "onyomi": [
+      "サイ",
+      "せい"
+    ],
+    "kunyomi": [
+      "にし"
+    ],
+    "meanings": [
+      "west"
+    ],
+    "radicals": [
+      "rad-146"
+    ],
+    "mnemonic": "A bird nesting in its home at sunset: the West.",
+    "exampleWords": [
+      "関西"
+    ]
+  },
+  {
+    "character": "話",
+    "strokeCount": 13,
+    "grade": 2,
+    "jlpt": "N5",
+    "onyomi": [
+      "ワ"
+    ],
+    "kunyomi": [
+      "はな.す",
+      "はなし"
+    ],
+    "meanings": [
+      "speak",
+      "talk",
+      "story"
+    ],
+    "radicals": [
+      "rad-146",
+      "rad-030"
+    ],
+    "components": [
+      "言",
+      "舌"
+    ],
+    "mnemonic": "Speech (言) + tongue (舌): talking.",
+    "exampleWords": [
+      "日本語の話",
+      "電話"
+    ]
+  },
+  {
+    "character": "語",
+    "strokeCount": 14,
+    "grade": 2,
+    "jlpt": "N5",
+    "onyomi": [
+      "ゴ"
+    ],
+    "kunyomi": [
+      "かた.る"
+    ],
+    "meanings": [
+      "word",
+      "language",
+      "speech"
+    ],
+    "radicals": [
+      "rad-146",
+      "rad-120"
+    ],
+    "components": [
+      "言",
+      "五",
+      "口"
+    ],
+    "mnemonic": "Speech (言) made of five (五) mouths (口): words exchanged — a language.",
+    "exampleWords": [
+      "日本語",
+      "英語"
+    ]
+  },
+  {
+    "character": "本",
+    "strokeCount": 5,
+    "grade": 1,
+    "jlpt": "N5",
+    "onyomi": [
+      "ホン"
+    ],
+    "kunyomi": [
+      "もと",
+      "すじ"
+    ],
+    "meanings": [
+      "book",
+      "origin",
+      "base"
+    ],
+    "radicals": [
+      "rad-214",
+      "rad-010"
+    ],
+    "components": [
+      "木",
+      "一"
+    ],
+    "mnemonic": "A tree (木) marked at its root (一): the origin — books were carved from wood.",
+    "exampleWords": [
+      "本",
+      "日本語の本"
+    ]
+  },
+  {
+    "character": "名",
+    "strokeCount": 6,
+    "grade": 2,
+    "jlpt": "N5",
+    "onyomi": [
+      "メイ",
+      "みょう"
+    ],
+    "kunyomi": [
+      "な",
+      "-な"
+    ],
+    "meanings": [
+      "name",
+      " renown"
+    ],
+    "radicals": [
+      "rad-030",
+      "rad-190"
+    ],
+    "components": [
+      "夕",
+      "口"
+    ],
+    "mnemonic": "At dusk (夕) you can only know someone by the mouth (口) that calls their name.",
+    "exampleWords": [
+      "名前",
+      "有名"
+    ]
+  },
+  {
+    "character": "前",
+    "strokeCount": 9,
+    "grade": 2,
+    "jlpt": "N5",
+    "onyomi": [
+      "ゼン"
+    ],
+    "kunyomi": [
+      "まえ",
+      "-まえ"
+    ],
+    "meanings": [
+      "before",
+      "front"
+    ],
+    "radicals": [
+      "rad-120",
+      "rad-075"
+    ],
+    "components": [
+      "䒑",
+      "月",
+      "刂"
+    ],
+    "mnemonic": "Horns, a moon, and a knife cutting what lies ahead: the front.",
+    "exampleWords": [
+      "名前",
+      "前日"
+    ]
+  },
+  {
+    "character": "高",
+    "strokeCount": 10,
+    "grade": 2,
+    "jlpt": "N5",
+    "onyomi": [
+      "コウ"
+    ],
+    "kunyomi": [
+      "たか.い",
+      "たか",
+      "-だか"
+    ],
+    "meanings": [
+      "expensive",
+      "tall",
+      "high"
+    ],
+    "radicals": [
+      "rad-192",
+      "rad-030"
+    ],
+    "components": [
+      "亠",
+      "口",
+      "冋minus"
+    ],
+    "mnemonic": "A tall gatehouse with windows high above — expensive, tall.",
+    "exampleWords": [
+      "高い",
+      "大学"
+    ]
+  },
+  {
+    "character": "安",
+    "strokeCount": 6,
+    "grade": 2,
+    "jlpt": "N5",
+    "onyomi": [
+      "アン"
+    ],
+    "kunyomi": [
+      "やす.い",
+      "やす.まる"
+    ],
+    "meanings": [
+      "cheap",
+      "relax",
+      "safe"
+    ],
+    "radicals": [
+      "rad-192",
+      "rad-038"
+    ],
+    "components": [
+      "宀",
+      "女"
+    ],
+    "mnemonic": "A woman (女) resting under a roof (宀) — peace, cheapness, safety.",
+    "exampleWords": [
+      "安い"
+    ]
+  },
+  {
+    "character": "冷",
+    "strokeCount": 7,
+    "grade": 3,
+    "jlpt": "N5",
+    "onyomi": [
+      "レイ"
+    ],
+    "kunyomi": [
+      "つめ.たい",
+      "さ.める"
+    ],
+    "meanings": [
+      "cold",
+      "chill"
+    ],
+    "radicals": [
+      "rad-280",
+      "rad-133"
+    ],
+    "components": [
+      "冫",
+      "令"
+    ],
+    "mnemonic": "Two ice droplets (冫) beside a command (令): freeze! — cold.",
+    "exampleWords": [
+      "冷たい"
+    ]
+  },
+  {
+    "character": "美",
+    "strokeCount": 9,
+    "grade": 2,
+    "jlpt": "N5",
+    "onyomi": [
+      "ビ",
+      "ミ"
+    ],
+    "kunyomi": [
+      "うつく.しい"
+    ],
+    "meanings": [
+      "beauty",
+      "delicious"
+    ],
+    "radicals": [
+      "rad-140",
+      "rad-190"
+    ],
+    "components": [
+      "羊",
+      "大"
+    ],
+    "mnemonic": "A big (大) well-groomed sheep (羊) was considered beautiful — and tasty.",
+    "exampleWords": [
+      "美味しい"
+    ]
+  },
+  {
+    "character": "猫",
+    "strokeCount": 11,
+    "grade": 0,
+    "jlpt": "N4",
+    "onyomi": [
+      "ビョウ",
+      "ミョウ",
+      "ぼう"
+    ],
+    "kunyomi": [
+      "ねこ"
+    ],
+    "meanings": [
+      "cat"
+    ],
+    "radicals": [
+      "rad-096",
+      "rad-120"
+    ],
+    "components": [
+      "犭",
+      "苗"
+    ],
+    "mnemonic": "The dog-radical (犭) stands in for 'animal'; add young grass (苗) the cat stalks.",
+    "exampleWords": [
+      "猫"
+    ]
+  },
+  {
+    "character": "犬",
+    "strokeCount": 4,
+    "grade": 1,
+    "jlpt": "N5",
+    "onyomi": [
+      "ケン",
+      "いぬ"
+    ],
+    "kunyomi": [
+      "いぬ"
+    ],
+    "meanings": [
+      "dog"
+    ],
+    "radicals": [
+      "rad-096"
+    ],
+    "mnemonic": "A person (大) with an extra dot: the loyal dog sitting beside them.",
+    "exampleWords": [
+      "犬",
+      "子犬"
+    ]
+  },
+  {
+    "character": "駅",
+    "strokeCount": 14,
+    "grade": 6,
+    "jlpt": "N5",
+    "onyomi": [
+      "エキ"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "station"
+    ],
+    "radicals": [
+      "rad-167",
+      "rad-157"
+    ],
+    "components": [
+      "馬",
+      "各"
+    ],
+    "mnemonic": "Horses (馬) arriving from every direction (各) — a relay station.",
+    "exampleWords": [
+      "駅",
+      "地下鉄駅"
+    ]
+  },
+  {
+    "character": "友",
+    "strokeCount": 4,
+    "grade": 2,
+    "jlpt": "N5",
+    "onyomi": [
+      "ユウ"
+    ],
+    "kunyomi": [
+      "とも"
+    ],
+    "meanings": [
+      "friend"
+    ],
+    "radicals": [
+      "rad-028"
+    ],
+    "mnemonic": "Two left-hands joined together — friends.",
+    "exampleWords": [
+      "友達"
+    ]
+  },
+  {
+    "character": "達",
+    "strokeCount": 12,
+    "grade": 3,
+    "jlpt": "N5",
+    "onyomi": [
+      "タツ",
+      "ダ"
+    ],
+    "kunyomi": [
+      "たち",
+      "-たち"
+    ],
+    "meanings": [
+      "plural suffix",
+      "reach"
+    ],
+    "radicals": [
+      "rad-162",
+      "rad-140"
+    ],
+    "components": [
+      "辶",
+      "幸"
+    ],
+    "mnemonic": "On the road (辶) carrying luck (幸) — to reach; pluralizing people.",
+    "exampleWords": [
+      "友達"
+    ]
+  }
+]

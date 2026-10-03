@@ -1,0 +1,873 @@
+[
+  {
+    "id": "1399700",
+    "word": "橋",
+    "reading": "はし",
+    "romaji": "hashi",
+    "glosses": [
+      "bridge"
+    ],
+    "pos": [
+      "noun",
+      "common"
+    ],
+    "pitchAccent": 1,
+    "pitchPattern": "HL",
+    "level": "N4",
+    "tags": [
+      "pitch:minimal-pair"
+    ],
+    "moraCount": 2
+  },
+  {
+    "id": "1582960",
+    "word": "箸",
+    "reading": "はし",
+    "romaji": "hashi",
+    "glosses": [
+      "chopsticks"
+    ],
+    "pos": [
+      "noun",
+      "common"
+    ],
+    "pitchAccent": 2,
+    "pitchPattern": "LH",
+    "level": "N4",
+    "tags": [
+      "pitch:minimal-pair"
+    ],
+    "moraCount": 2
+  },
+  {
+    "id": "1000010",
+    "word": "雨",
+    "reading": "あめ",
+    "romaji": "ame",
+    "glosses": [
+      "rain"
+    ],
+    "pos": [
+      "noun",
+      "common"
+    ],
+    "pitchAccent": 1,
+    "pitchPattern": "HL",
+    "level": "N5",
+    "moraCount": 2
+  },
+  {
+    "id": "1000020",
+    "word": "飴",
+    "reading": "あめ",
+    "romaji": "ame",
+    "glosses": [
+      "candy"
+    ],
+    "pos": [
+      "noun",
+      "common"
+    ],
+    "pitchAccent": 2,
+    "pitchPattern": "LH",
+    "level": "N5",
+    "tags": [
+      "pitch:minimal-pair"
+    ],
+    "moraCount": 2
+  },
+  {
+    "id": "1000030",
+    "word": "私",
+    "reading": "わたし",
+    "romaji": "watashi",
+    "glosses": [
+      "I",
+      "me"
+    ],
+    "pos": [
+      "pronoun",
+      "common"
+    ],
+    "pitchAccent": 0,
+    "pitchPattern": "LHH",
+    "level": "N5",
+    "moraCount": 3
+  },
+  {
+    "id": "1000040",
+    "word": "学校",
+    "reading": "がっこう",
+    "romaji": "gakkou",
+    "glosses": [
+      "school"
+    ],
+    "pos": [
+      "noun",
+      "common"
+    ],
+    "pitchAccent": 0,
+    "pitchPattern": "LHHH",
+    "level": "N5",
+    "moraCount": 4
+  },
+  {
+    "id": "1000050",
+    "word": "先生",
+    "reading": "せんせい",
+    "romaji": "sensei",
+    "glosses": [
+      "teacher",
+      "master",
+      "doctor"
+    ],
+    "pos": [
+      "noun",
+      "common"
+    ],
+    "pitchAccent": 3,
+    "pitchPattern": "LHHL",
+    "level": "N5",
+    "moraCount": 4
+  },
+  {
+    "id": "1000060",
+    "word": "学生",
+    "reading": "がくせい",
+    "romaji": "gakusei",
+    "glosses": [
+      "student"
+    ],
+    "pos": [
+      "noun",
+      "common"
+    ],
+    "pitchAccent": 0,
+    "pitchPattern": "LHHH",
+    "level": "N5",
+    "moraCount": 4
+  },
+  {
+    "id": "1000070",
+    "word": "東京",
+    "reading": "とうきょう",
+    "romaji": "tokyou",
+    "glosses": [
+      "Tokyo"
+    ],
+    "pos": [
+      "proper noun",
+      "place"
+    ],
+    "pitchAccent": 0,
+    "pitchPattern": "LHHH",
+    "level": "N5",
+    "moraCount": 4
+  },
+  {
+    "id": "1000080",
+    "word": "京都",
+    "reading": "きょうと",
+    "romaji": "kyouto",
+    "glosses": [
+      "Kyoto"
+    ],
+    "pos": [
+      "proper noun",
+      "place"
+    ],
+    "pitchAccent": 1,
+    "pitchPattern": "HLL",
+    "level": "N5",
+    "moraCount": 3
+  },
+  {
+    "id": "1000090",
+    "word": "大阪",
+    "reading": "おおさか",
+    "romaji": "oosaka",
+    "glosses": [
+      "Osaka"
+    ],
+    "pos": [
+      "proper noun",
+      "place"
+    ],
+    "pitchAccent": 3,
+    "pitchPattern": "LHHL",
+    "level": "N5",
+    "moraCount": 4
+  },
+  {
+    "id": "1000100",
+    "word": "北海道",
+    "reading": "ほっかいどう",
+    "romaji": "hokkaidou",
+    "glosses": [
+      "Hokkaido"
+    ],
+    "pos": [
+      "proper noun",
+      "place"
+    ],
+    "pitchAccent": 0,
+    "pitchPattern": "LHHHHH",
+    "level": "N5",
+    "moraCount": 6
+  },
+  {
+    "id": "1000110",
+    "word": "水",
+    "reading": "みず",
+    "romaji": "mizu",
+    "glosses": [
+      "water"
+    ],
+    "pos": [
+      "noun",
+      "common"
+    ],
+    "pitchAccent": 1,
+    "pitchPattern": "HL",
+    "level": "N5",
+    "moraCount": 2
+  },
+  {
+    "id": "1000120",
+    "word": "お水",
+    "reading": "おみず",
+    "romaji": "omizu",
+    "glosses": [
+      "water (polite)"
+    ],
+    "pos": [
+      "noun",
+      "polite"
+    ],
+    "pitchAccent": 3,
+    "pitchPattern": "LHH",
+    "level": "N4",
+    "tags": [
+      "keigo:polite-prefix"
+    ],
+    "moraCount": 3
+  },
+  {
+    "id": "1000130",
+    "word": "猫",
+    "reading": "ねこ",
+    "romaji": "neko",
+    "glosses": [
+      "cat"
+    ],
+    "pos": [
+      "noun",
+      "common"
+    ],
+    "pitchAccent": 1,
+    "pitchPattern": "HL",
+    "level": "N5",
+    "moraCount": 2
+  },
+  {
+    "id": "1000140",
+    "word": "犬",
+    "reading": "いぬ",
+    "romaji": "inu",
+    "glosses": [
+      "dog"
+    ],
+    "pos": [
+      "noun",
+      "common"
+    ],
+    "pitchAccent": 1,
+    "pitchPattern": "HL",
+    "level": "N5",
+    "moraCount": 2
+  },
+  {
+    "id": "1000150",
+    "word": "たべもの",
+    "reading": "たべもの",
+    "romaji": "tabemono",
+    "glosses": [
+      "food"
+    ],
+    "pos": [
+      "noun",
+      "common"
+    ],
+    "pitchAccent": 3,
+    "pitchPattern": "LHHL",
+    "level": "N5",
+    "moraCount": 4
+  },
+  {
+    "id": "1000160",
+    "word": "食べる",
+    "reading": "たべる",
+    "romaji": "taberu",
+    "glosses": [
+      "to eat"
+    ],
+    "pos": [
+      "verb",
+      "ichidan",
+      "common"
+    ],
+    "pitchAccent": 0,
+    "pitchPattern": "LHH",
+    "level": "N5",
+    "moraCount": 3
+  },
+  {
+    "id": "1000170",
+    "word": "飲む",
+    "reading": "のむ",
+    "romaji": "nomu",
+    "glosses": [
+      "to drink"
+    ],
+    "pos": [
+      "verb",
+      "godan",
+      "common"
+    ],
+    "pitchAccent": 1,
+    "pitchPattern": "HL",
+    "level": "N5",
+    "moraCount": 2
+  },
+  {
+    "id": "1000180",
+    "word": "行く",
+    "reading": "いく",
+    "romaji": "iku",
+    "glosses": [
+      "to go"
+    ],
+    "pos": [
+      "verb",
+      "godan",
+      "common"
+    ],
+    "pitchAccent": 0,
+    "pitchPattern": "LH",
+    "level": "N5",
+    "moraCount": 2
+  },
+  {
+    "id": "1000190",
+    "word": "行きます",
+    "reading": "いきます",
+    "romaji": "ikimasu",
+    "glosses": [
+      "to go (polite)"
+    ],
+    "pos": [
+      "verb",
+      "polite"
+    ],
+    "pitchAccent": 4,
+    "pitchPattern": "LHHH",
+    "level": "N5",
+    "tags": [
+      "keigo:teineigo"
+    ],
+    "moraCount": 4
+  },
+  {
+    "id": "1000200",
+    "word": "いらっしゃいます",
+    "reading": "いらっしゃいます",
+    "romaji": "irasshaimasu",
+    "glosses": [
+      "to be / to go / to come (honorific)"
+    ],
+    "pos": [
+      "verb",
+      "honorific"
+    ],
+    "pitchAccent": 6,
+    "pitchPattern": "LHHHHHL",
+    "level": "N2",
+    "tags": [
+      "keigo:honorific"
+    ],
+    "moraCount": 7
+  },
+  {
+    "id": "1000210",
+    "word": "参ります",
+    "reading": "まいります",
+    "romaji": "mairimasu",
+    "glosses": [
+      "to go (humble)"
+    ],
+    "pos": [
+      "verb",
+      "humble"
+    ],
+    "pitchAccent": 3,
+    "pitchPattern": "LHHLL",
+    "level": "N2",
+    "tags": [
+      "keigo:humble"
+    ],
+    "moraCount": 5
+  },
+  {
+    "id": "1000220",
+    "word": "申します",
+    "reading": "もうします",
+    "romaji": "moushimasu",
+    "glosses": [
+      "to say / to be called (humble)"
+    ],
+    "pos": [
+      "verb",
+      "humble"
+    ],
+    "pitchAccent": 2,
+    "pitchPattern": "LHLLL",
+    "level": "N2",
+    "tags": [
+      "keigo:humble"
+    ],
+    "moraCount": 5
+  },
+  {
+    "id": "1000230",
+    "word": "おっしゃいます",
+    "reading": "おっしゃいます",
+    "romaji": "osshaimasu",
+    "glosses": [
+      "to say (honorific)"
+    ],
+    "pos": [
+      "verb",
+      "honorific"
+    ],
+    "pitchAccent": 4,
+    "pitchPattern": "LHHHLL",
+    "level": "N2",
+    "tags": [
+      "keigo:honorific"
+    ],
+    "moraCount": 6
+  },
+  {
+    "id": "1000240",
+    "word": "ビール",
+    "reading": "びーる",
+    "romaji": "biiru",
+    "glosses": [
+      "beer"
+    ],
+    "pos": [
+      "noun",
+      "common"
+    ],
+    "pitchAccent": 1,
+    "pitchPattern": "HLL",
+    "level": "N5",
+    "moraCount": 3
+  },
+  {
+    "id": "1000250",
+    "word": "メニュー",
+    "reading": "めにゅー",
+    "romaji": "menyuu",
+    "glosses": [
+      "menu"
+    ],
+    "pos": [
+      "noun",
+      "common"
+    ],
+    "pitchAccent": 1,
+    "pitchPattern": "HLL",
+    "level": "N5",
+    "moraCount": 3
+  },
+  {
+    "id": "1000260",
+    "word": "やきとり",
+    "reading": "やきとり",
+    "romaji": "yakitori",
+    "glosses": [
+      "grilled chicken skewers"
+    ],
+    "pos": [
+      "noun",
+      "common"
+    ],
+    "pitchAccent": 0,
+    "pitchPattern": "LHHH",
+    "level": "N4",
+    "moraCount": 4
+  },
+  {
+    "id": "1000270",
+    "word": "冷たい",
+    "reading": "つめたい",
+    "romaji": "tsumetai",
+    "glosses": [
+      "cold (to the touch)"
+    ],
+    "pos": [
+      "adjective",
+      "i-adjective"
+    ],
+    "pitchAccent": 3,
+    "pitchPattern": "LHHL",
+    "level": "N5",
+    "moraCount": 4
+  },
+  {
+    "id": "1000280",
+    "word": "美味しい",
+    "reading": "おいしい",
+    "romaji": "oishii",
+    "glosses": [
+      "delicious"
+    ],
+    "pos": [
+      "adjective",
+      "i-adjective"
+    ],
+    "pitchAccent": 0,
+    "pitchPattern": "LHHH",
+    "level": "N5",
+    "moraCount": 4
+  },
+  {
+    "id": "1000290",
+    "word": "高い",
+    "reading": "たかい",
+    "romaji": "takai",
+    "glosses": [
+      "expensive",
+      "tall"
+    ],
+    "pos": [
+      "adjective",
+      "i-adjective"
+    ],
+    "pitchAccent": 2,
+    "pitchPattern": "LHL",
+    "level": "N5",
+    "moraCount": 3
+  },
+  {
+    "id": "1000300",
+    "word": "安い",
+    "reading": "やすい",
+    "romaji": "yasui",
+    "glosses": [
+      "cheap"
+    ],
+    "pos": [
+      "adjective",
+      "i-adjective"
+    ],
+    "pitchAccent": 1,
+    "pitchPattern": "HLL",
+    "level": "N5",
+    "moraCount": 3
+  },
+  {
+    "id": "1000310",
+    "word": "駅",
+    "reading": "えき",
+    "romaji": "eki",
+    "glosses": [
+      "station"
+    ],
+    "pos": [
+      "noun",
+      "common"
+    ],
+    "pitchAccent": 1,
+    "pitchPattern": "HL",
+    "level": "N5",
+    "moraCount": 2
+  },
+  {
+    "id": "1000320",
+    "word": "電車",
+    "reading": "でんしゃ",
+    "romaji": "densha",
+    "glosses": [
+      "electric train"
+    ],
+    "pos": [
+      "noun",
+      "common"
+    ],
+    "pitchAccent": 1,
+    "pitchPattern": "HLL",
+    "level": "N5",
+    "moraCount": 3
+  },
+  {
+    "id": "1000330",
+    "word": "切符",
+    "reading": "きっぷ",
+    "romaji": "kippu",
+    "glosses": [
+      "ticket"
+    ],
+    "pos": [
+      "noun",
+      "common"
+    ],
+    "pitchAccent": 1,
+    "pitchPattern": "HLL",
+    "level": "N4",
+    "moraCount": 3
+  },
+  {
+    "id": "1000340",
+    "word": "人",
+    "reading": "ひと",
+    "romaji": "hito",
+    "glosses": [
+      "person"
+    ],
+    "pos": [
+      "noun",
+      "common"
+    ],
+    "pitchAccent": 0,
+    "pitchPattern": "LH",
+    "level": "N5",
+    "moraCount": 2
+  },
+  {
+    "id": "1000350",
+    "word": "日本語",
+    "reading": "にほんご",
+    "romaji": "nihongo",
+    "glosses": [
+      "Japanese language"
+    ],
+    "pos": [
+      "noun",
+      "common"
+    ],
+    "pitchAccent": 3,
+    "pitchPattern": "LHHL",
+    "level": "N5",
+    "moraCount": 4
+  },
+  {
+    "id": "1000360",
+    "word": "本",
+    "reading": "ほん",
+    "romaji": "hon",
+    "glosses": [
+      "book"
+    ],
+    "pos": [
+      "noun",
+      "counter",
+      "common"
+    ],
+    "pitchAccent": 1,
+    "pitchPattern": "HL",
+    "level": "N5",
+    "moraCount": 2
+  },
+  {
+    "id": "1000370",
+    "word": "一",
+    "reading": "いち",
+    "romaji": "ichi",
+    "glosses": [
+      "one"
+    ],
+    "pos": [
+      "noun",
+      "counter"
+    ],
+    "pitchAccent": 1,
+    "pitchPattern": "HL",
+    "level": "N5",
+    "moraCount": 2
+  },
+  {
+    "id": "1000380",
+    "word": "二",
+    "reading": "に",
+    "romaji": "ni",
+    "glosses": [
+      "two"
+    ],
+    "pos": [
+      "noun",
+      "counter"
+    ],
+    "pitchAccent": 1,
+    "pitchPattern": "H",
+    "level": "N5",
+    "moraCount": 1
+  },
+  {
+    "id": "1000390",
+    "word": "三",
+    "reading": "さん",
+    "romaji": "san",
+    "glosses": [
+      "three"
+    ],
+    "pos": [
+      "noun",
+      "counter"
+    ],
+    "pitchAccent": 1,
+    "pitchPattern": "HL",
+    "level": "N5",
+    "moraCount": 2
+  },
+  {
+    "id": "1000400",
+    "word": "なまえ",
+    "reading": "なまえ",
+    "romaji": "namae",
+    "glosses": [
+      "name"
+    ],
+    "pos": [
+      "noun",
+      "common"
+    ],
+    "pitchAccent": 3,
+    "pitchPattern": "LHH",
+    "level": "N5",
+    "moraCount": 3
+  },
+  {
+    "id": "1000410",
+    "word": "会社",
+    "reading": "かいしゃ",
+    "romaji": "kaisha",
+    "glosses": [
+      "company"
+    ],
+    "pos": [
+      "noun",
+      "common"
+    ],
+    "pitchAccent": 1,
+    "pitchPattern": "HLL",
+    "level": "N4",
+    "moraCount": 3
+  },
+  {
+    "id": "1000420",
+    "word": "友達",
+    "reading": "ともだち",
+    "romaji": "tomodachi",
+    "glosses": [
+      "friend"
+    ],
+    "pos": [
+      "noun",
+      "common"
+    ],
+    "pitchAccent": 3,
+    "pitchPattern": "LHHL",
+    "level": "N5",
+    "moraCount": 4
+  },
+  {
+    "id": "1000430",
+    "word": "家族",
+    "reading": "かぞく",
+    "romaji": "kazoku",
+    "glosses": [
+      "family"
+    ],
+    "pos": [
+      "noun",
+      "common"
+    ],
+    "pitchAccent": 1,
+    "pitchPattern": "HLL",
+    "level": "N5",
+    "moraCount": 3
+  },
+  {
+    "id": "1000440",
+    "word": "時間",
+    "reading": "じかん",
+    "romaji": "jikan",
+    "glosses": [
+      "time"
+    ],
+    "pos": [
+      "noun",
+      "common"
+    ],
+    "pitchAccent": 1,
+    "pitchPattern": "HLL",
+    "level": "N5",
+    "moraCount": 3
+  },
+  {
+    "id": "1000450",
+    "word": "今日",
+    "reading": "きょう",
+    "romaji": "kyou",
+    "glosses": [
+      "today"
+    ],
+    "pos": [
+      "noun",
+      "adverb",
+      "time"
+    ],
+    "pitchAccent": 1,
+    "pitchPattern": "HL",
+    "level": "N5",
+    "moraCount": 2
+  },
+  {
+    "id": "1000460",
+    "word": "明日",
+    "reading": "あした",
+    "romaji": "ashita",
+    "glosses": [
+      "tomorrow"
+    ],
+    "pos": [
+      "noun",
+      "adverb",
+      "time"
+    ],
+    "pitchAccent": 3,
+    "pitchPattern": "LHH",
+    "level": "N5",
+    "moraCount": 3
+  },
+  {
+    "id": "1000470",
+    "word": "昨日",
+    "reading": "きのう",
+    "romaji": "kinou",
+    "glosses": [
+      "yesterday"
+    ],
+    "pos": [
+      "noun",
+      "adverb",
+      "time"
+    ],
+    "pitchAccent": 2,
+    "pitchPattern": "LHL",
+    "level": "N5",
+    "moraCount": 3
+  }
+]

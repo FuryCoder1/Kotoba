@@ -1,0 +1,176 @@
+[
+  {
+    "id": "s001",
+    "text": "私は東京の学校で日本語を勉強します。",
+    "furigana": [
+      { "surface": "私", "reading": "わたし" },
+      { "surface": "東京", "reading": "とうきょう" },
+      { "surface": "学校", "reading": "がっこう" },
+      { "surface": "日本語", "reading": "にほんご" }
+    ],
+    "romaji": "watashi wa tokyou no gakkou de nihongo wo benkyou shimasu",
+    "translation": "I study Japanese at a school in Tokyo.",
+    "level": "N5",
+    "tokens": [
+      { "surface": "私", "reading": "わたし", "lemma": "私", "pos": "pronoun", "particle": null, "dependsOn": 4 },
+      { "surface": "は", "reading": "わ", "lemma": "は", "pos": "particle", "particle": "wa", "dependsOn": 0 },
+      { "surface": "東京", "reading": "とうきょう", "lemma": "東京", "pos": "noun", "particle": null, "dependsOn": 3 },
+      { "surface": "の", "reading": "の", "lemma": "の", "pos": "particle", "particle": "no", "dependsOn": 2 },
+      { "surface": "学校", "reading": "がっこう", "lemma": "学校", "pos": "noun", "particle": null, "dependsOn": 5 },
+      { "surface": "で", "reading": "で", "lemma": "で", "pos": "particle", "particle": "de", "dependsOn": 4 },
+      { "surface": "日本語", "reading": "にほんご", "lemma": "日本語", "pos": "noun", "particle": null, "dependsOn": 8 },
+      { "surface": "を", "reading": "を", "lemma": "を", "pos": "particle", "particle": "wo", "dependsOn": 6 },
+      { "surface": "勉強します", "reading": "べんきょうします", "lemma": "勉強する", "pos": "verb", "particle": null, "dependsOn": -1 }
+    ]
+  },
+  {
+    "id": "s002",
+    "text": "昨日、駅で猫を見ました。",
+    "furigana": [
+      { "surface": "昨日", "reading": "きのう" },
+      { "surface": "駅", "reading": "えき" },
+      { "surface": "猫", "reading": "ねこ" }
+    ],
+    "romaji": "kinou, eki de neko wo mimashita",
+    "translation": "Yesterday, I saw a cat at the station.",
+    "level": "N5",
+    "tokens": [
+      { "surface": "昨日", "reading": "きのう", "lemma": "昨日", "pos": "noun", "particle": null, "dependsOn": 7 },
+      { "surface": "、", "reading": "、", "lemma": "、", "pos": "punctuation", "particle": null, "dependsOn": 7 },
+      { "surface": "駅", "reading": "えき", "lemma": "駅", "pos": "noun", "particle": null, "dependsOn": 4 },
+      { "surface": "で", "reading": "で", "lemma": "で", "pos": "particle", "particle": "de", "dependsOn": 2 },
+      { "surface": "猫", "reading": "ねこ", "lemma": "猫", "pos": "noun", "particle": null, "dependsOn": 6 },
+      { "surface": "を", "reading": "を", "lemma": "を", "pos": "particle", "particle": "wo", "dependsOn": 4 },
+      { "surface": "見ました", "reading": "みました", "lemma": "見る", "pos": "verb", "particle": null, "dependsOn": -1 }
+    ]
+  },
+  {
+    "id": "s003",
+    "text": "橋の上から川を見ると、雨が降っています。",
+    "furigana": [
+      { "surface": "橋", "reading": "はし" },
+      { "surface": "上", "reading": "うえ" },
+      { "surface": "川", "reading": "かわ" },
+      { "surface": "雨", "reading": "あめ" }
+    ],
+    "romaji": "hashi no ue kara kawa wo miru to, ame ga futte imasu",
+    "translation": "When I look at the river from the bridge, rain is falling.",
+    "level": "N4",
+    "tokens": [
+      { "surface": "橋", "reading": "はし", "lemma": "橋", "pos": "noun", "particle": null, "dependsOn": 2 },
+      { "surface": "の", "reading": "の", "lemma": "の", "pos": "particle", "particle": "no", "dependsOn": 1 },
+      { "surface": "上", "reading": "うえ", "lemma": "上", "pos": "noun", "particle": null, "dependsOn": 4 },
+      { "surface": "から", "reading": "から", "lemma": "から", "pos": "particle", "particle": "kara", "dependsOn": 2 },
+      { "surface": "川", "reading": "かわ", "lemma": "川", "pos": "noun", "particle": null, "dependsOn": 6 },
+      { "surface": "を", "reading": "を", "lemma": "を", "pos": "particle", "particle": "wo", "dependsOn": 4 },
+      { "surface": "見る", "reading": "みる", "lemma": "見る", "pos": "verb", "particle": null, "dependsOn": 8 },
+      { "surface": "と", "reading": "と", "lemma": "と", "pos": "particle", "particle": "to", "dependsOn": 6 },
+      { "surface": "雨", "reading": "あめ", "lemma": "雨", "pos": "noun", "particle": null, "dependsOn": 11 },
+      { "surface": "が", "reading": "が", "lemma": "が", "pos": "particle", "particle": "ga", "dependsOn": 8 },
+      { "surface": "降って", "reading": "ふって", "lemma": "降る", "pos": "verb", "particle": null, "dependsOn": 12 },
+      { "surface": "います", "reading": "います", "lemma": "いる", "pos": "auxiliary verb", "particle": null, "dependsOn": -1 }
+    ]
+  },
+  {
+    "id": "s004",
+    "text": "すみません、やきとりが冷たいです。",
+    "furigana": [
+      { "surface": "すみません", "reading": "すみません" },
+      { "surface": "やきとり", "reading": "やきとり" },
+      { "surface": "冷たい", "reading": "つめたい" }
+    ],
+    "romaji": "sumimasen, yakitori ga tsumetai desu",
+    "translation": "Excuse me, the yakitori is cold.",
+    "level": "N5",
+    "tokens": [
+      { "surface": "すみません", "reading": "すみません", "lemma": "すみません", "pos": "interjection", "particle": null, "dependsOn": 5 },
+      { "surface": "、", "reading": "、", "lemma": "、", "pos": "punctuation", "particle": null, "dependsOn": 5 },
+      { "surface": "やきとり", "reading": "やきとり", "lemma": "やきとり", "pos": "noun", "particle": null, "dependsOn": 4 },
+      { "surface": "が", "reading": "が", "lemma": "が", "pos": "particle", "particle": "ga", "dependsOn": 2 },
+      { "surface": "冷たい", "reading": "つめたい", "lemma": "冷たい", "pos": "adjective", "particle": null, "dependsOn": 5 },
+      { "surface": "です", "reading": "です", "lemma": "です", "pos": "copula", "particle": null, "dependsOn": -1 }
+    ]
+  },
+  {
+    "id": "s005",
+    "text": "店員さんにメニューをお願いいたします。",
+    "furigana": [
+      { "surface": "店員さん", "reading": "てんいんさん" },
+      { "surface": "メニュー", "reading": "めにゅー" },
+      { "surface": "お願い", "reading": "おねがい" },
+      { "surface": "いたします", "reading": "いたします" }
+    ],
+    "romaji": "ten'in-san ni menyuu wo onegai itashimasu",
+    "translation": "I humbly request the menu from the staff member.",
+    "level": "N3",
+    "tokens": [
+      { "surface": "店員さん", "reading": "てんいんさん", "lemma": "店員さん", "pos": "noun", "particle": null, "dependsOn": 4 },
+      { "surface": "に", "reading": "に", "lemma": "に", "pos": "particle", "particle": "ni", "dependsOn": 0 },
+      { "surface": "メニュー", "reading": "めにゅー", "lemma": "メニュー", "pos": "noun", "particle": null, "dependsOn": 6 },
+      { "surface": "を", "reading": "を", "lemma": "を", "pos": "particle", "particle": "wo", "dependsOn": 2 },
+      { "surface": "お願い", "reading": "おねがい", "lemma": "お願いする", "pos": "noun", "particle": null, "dependsOn": 6 },
+      { "surface": "いた", "reading": "いた", "lemma": "する", "pos": "auxiliary verb", "particle": null, "dependsOn": 4 },
+      { "surface": "します", "reading": "します", "lemma": "する", "pos": "verb", "particle": null, "dependsOn": -1 }
+    ]
+  },
+  {
+    "id": "s006",
+    "text": "先生が明日の時間を教えてくれました。",
+    "furigana": [
+      { "surface": "先生", "reading": "せんせい" },
+      { "surface": "明日", "reading": "あした" },
+      { "surface": "時間", "reading": "じかん" }
+    ],
+    "romaji": "sensei ga ashita no jikan wo oshiete kuremashita",
+    "translation": "The teacher kindly told me the time for tomorrow.",
+    "level": "N4",
+    "tokens": [
+      { "surface": "先生", "reading": "せんせい", "lemma": "先生", "pos": "noun", "particle": null, "dependsOn": 6 },
+      { "surface": "が", "reading": "が", "lemma": "が", "pos": "particle", "particle": "ga", "dependsOn": 0 },
+      { "surface": "明日", "reading": "あした", "lemma": "明日", "pos": "noun", "particle": null, "dependsOn": 4 },
+      { "surface": "の", "reading": "の", "lemma": "の", "pos": "particle", "particle": "no", "dependsOn": 2 },
+      { "surface": "時間", "reading": "じかん", "lemma": "時間", "pos": "noun", "particle": null, "dependsOn": 6 },
+      { "surface": "を", "reading": "を", "lemma": "を", "pos": "particle", "particle": "wo", "dependsOn": 4 },
+      { "surface": "教えてくれました", "reading": "おしえてくれました", "lemma": "教える", "pos": "verb", "particle": null, "dependsOn": -1 }
+    ]
+  },
+  {
+    "id": "s007",
+    "text": "大阪ではたこ焼きを食べます。",
+    "furigana": [
+      { "surface": "大阪", "reading": "おおさか" },
+      { "surface": "たこ焼き", "reading": "たこやき" }
+    ],
+    "romaji": "oosaka de takoyaki wo tabemasu",
+    "translation": "In Osaka, (we) eat takoyaki.",
+    "level": "N5",
+    "tokens": [
+      { "surface": "大阪", "reading": "おおさか", "lemma": "大阪", "pos": "noun", "particle": null, "dependsOn": 2 },
+      { "surface": "で", "reading": "で", "lemma": "で", "pos": "particle", "particle": "de", "dependsOn": 0 },
+      { "surface": "たこ焼き", "reading": "たこやき", "lemma": "たこ焼き", "pos": "noun", "particle": null, "dependsOn": 4 },
+      { "surface": "を", "reading": "を", "lemma": "を", "pos": "particle", "particle": "wo", "dependsOn": 2 },
+      { "surface": "食べます", "reading": "たべます", "lemma": "食べる", "pos": "verb", "particle": null, "dependsOn": -1 }
+    ]
+  },
+  {
+    "id": "s008",
+    "text": "この本はとても面白いですね。",
+    "furigana": [
+      { "surface": "この", "reading": "この" },
+      { "surface": "本", "reading": "ほん" },
+      { "surface": "とても", "reading": "とても" },
+      { "surface": "面白い", "reading": "おもしろい" }
+    ],
+    "romaji": "kono hon wa totemo omoshiroi desu ne",
+    "translation": "This book is very interesting, isn't it?",
+    "level": "N5",
+    "tokens": [
+      { "surface": "この", "reading": "この", "lemma": "この", "pos": "determiner", "particle": null, "dependsOn": 1 },
+      { "surface": "本", "reading": "ほん", "lemma": "本", "pos": "noun", "particle": null, "dependsOn": 5 },
+      { "surface": "は", "reading": "は", "lemma": "は", "pos": "particle", "particle": "wa", "dependsOn": 1 },
+      { "surface": "とても", "reading": "とても", "lemma": "とても", "pos": "adverb", "particle": null, "dependsOn": 5 },
+      { "surface": "面白い", "reading": "おもしろい", "lemma": "面白い", "pos": "adjective", "particle": null, "dependsOn": 5 },
+      { "surface": "ですね", "reading": "ですね", "lemma": "です", "pos": "copula", "particle": "ne", "dependsOn": -1 }
+    ]
+  }
+]

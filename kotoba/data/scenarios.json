@@ -1,0 +1,93 @@
+[
+  {
+    "id": "izakaya",
+    "title": "Izakaya Night",
+    "location": "Tokyo",
+    "level": "N4",
+    "description": "You walk into a busy izakaya. Order a beer, ask for the menu, and politely complain that your yakitori is cold.",
+    "npcRole": "店員 (clerk)",
+    "userRole": "客 (customer)",
+    "goals": [
+      { "id": "greet", "text": "Greet the staff and ask for a seat", "requiredPhrases": ["すみません", "ください"] },
+      { "id": "order-beer", "text": "Order a beer politely", "requiredPhrases": ["ビール", "ください"] },
+      { "id": "menu", "text": "Ask for the menu", "requiredPhrases": ["メニュー", "お願いします"] },
+      { "id": "complain", "text": "Politely complain the yakitori is cold", "requiredPhrases": ["やきとり", "冷たい"] }
+    ],
+    "keigoRubric": {
+      "required": [
+        { "rule": "polite-request", "pattern": "(ください|お願いします|お願いいたします)", "points": 3, "why": "Requests to staff must use a polite imperative." },
+        { "rule": "soft-complaint", "pattern": "(ちょっと|少し|恐れ入りますが|申し訳ありませんが)", "points": 2, "why": "Complaints are softened in Japanese service contexts." },
+        { "rule": "humble-self", "pattern": "(いたしません|いたしたい|参ります|申します)", "points": 2, "why": "Kenjougo (humble) marks high formality toward staff you don't know." }
+      ],
+      "penalties": [
+        { "rule": "bare-casual", "pattern": "(くれよ|くれる|なさいよ)", "points": -3, "why": "Casual commands sound rude to an unfamiliar clerk." },
+        { "rule": "wrong-honorific", "pattern": "(おっしゃるBeer|いらっしゃいますビール)", "points": -2, "why": "Sonkeigo applied to your own action is a classic error." }
+      ]
+    },
+    "openingLine": "いらっしゃいませ！何名様ですか？",
+    "modelResponses": [
+      { "match": "(一人です|1人です|一人|1人)", "reply": "こちらへどうぞ。まずはお飲み物からいかがですか？" },
+      { "match": "ビール", "reply": "生ビール一つですね！おつまみは？" },
+      { "match": "メニュー", "reply": "はい、こちらがメニューです。" },
+      { "match": "冷たい", "reply": "申し訳ございません！すぐ温め直しますね。" }
+    ]
+  },
+  {
+    "id": "station",
+    "title": "Lost at the Ticket Gate",
+    "location": "Sendai",
+    "level": "N5",
+    "description": "You need a ticket to Tokyo and realize you bought the wrong one. Ask the station attendant for help.",
+    "npcRole": "駅員 (station attendant)",
+    "userRole": "乗客 (passenger)",
+    "goals": [
+      { "id": "ask-price", "text": "Ask the fare to Tokyo", "requiredPhrases": ["東京", "いくら"] },
+      { "id": "buy-ticket", "text": "Buy a ticket", "requiredPhrases": ["切符", "ください"] },
+      { "id": "fix-mistake", "text": "Explain you made a mistake and ask for exchange", "requiredPhrases": ["間違え", "交換"] }
+    ],
+    "keigoRubric": {
+      "required": [
+        { "rule": "polite-request", "pattern": "(ください|お願いします)", "points": 3, "why": "Standard teineigo request." },
+        { "rule": "apology", "pattern": "(すみません|申し訳ありません)", "points": 2, "why": "Admitting a mistake politely is expected at counters." }
+      ],
+      "penalties": [
+        { "rule": "bare-casual", "pattern": "(くれよ|これ|ねえ)", "points": -2, "why": "Too blunt for a station clerk." }
+      ]
+    },
+    "openingLine": "どうかなされましたか？",
+    "modelResponses": [
+      { "match": "いくら", "reply": "東京までは千二百円です。" },
+      { "match": "切符", "reply": "こちらで承ります。" },
+      { "match": "間違え", "reply": "大丈夫ですよ。交換いたしますので、少々お待ちください。" }
+    ]
+  },
+  {
+    "id": "shop",
+    "title": "Uniqlo Fitting Room",
+    "location": "Osaka",
+    "level": "N4",
+    "description": "Find a jacket, ask if there is a smaller size, and try it on. Bonus: react in Kansai-ben.",
+    "npcRole": "店員 (shop assistant)",
+    "userRole": "客 (customer)",
+    "goals": [
+      { "id": "size", "text": "Ask for a smaller size", "requiredPhrases": ["もっと小さい", "サイズ"] },
+      { "id": "try", "text": "Ask to try it on", "requiredPhrases": ["試着", "できますか"] },
+      { "id": "price-check", "text": "Comment on price", "requiredPhrases": ["高い", "安い"] }
+    ],
+    "keigoRubric": {
+      "required": [
+        { "rule": "polite-question", "pattern": "(できますか|もらえますか|いただけますか)", "points": 3, "why": "Potential-form polite questions show consideration." },
+        { "rule": "humble-receive", "pattern": "(いただきます|いただけます)", "points": 2, "why": "Kenjougo for receiving service." }
+      ],
+      "penalties": [
+        { "rule": "direct-demand", "pattern": "(ちょうだい|寄越せ)", "points": -3, "why": "Demanding phrasing." }
+      ]
+    },
+    "openingLine": "いらっしゃいませ。何かお探しですか？",
+    "modelResponses": [
+      { "match": "サイズ", "reply": "こちらのSサイズがございます。" },
+      { "match": "試着", "reply": "試着室へご案内いたします。" },
+      { "match": "高い", "reply": "ただいまセール中でございます。" }
+    ]
+  }
+]
