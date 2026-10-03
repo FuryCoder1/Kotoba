@@ -1,0 +1,222 @@
+{
+  "rad-004": {
+    "name": "丶",
+    "meaning": "dot",
+    "hint": "a single drop of ink"
+  },
+  "rad-010": {
+    "name": "一",
+    "meaning": "one / line",
+    "hint": "a horizon line"
+  },
+  "rad-013": {
+    "name": "丨",
+    "meaning": "stick",
+    "hint": "a vertical rod"
+  },
+  "rad-024": {
+    "name": "十",
+    "meaning": "ten",
+    "hint": "a crossroads"
+  },
+  "rad-028": {
+    "name": "⺘",
+    "meaning": "hand",
+    "hint": "a reaching hand"
+  },
+  "rad-030": {
+    "name": "口",
+    "meaning": "mouth",
+    "hint": "an open mouth"
+  },
+  "rad-031": {
+    "name": "屮",
+    "meaning": "sprout",
+    "hint": "a young shoot"
+  },
+  "rad-032": {
+    "name": "𠀎",
+    "meaning": "field",
+    "hint": "rice paddy grid"
+  },
+  "rad-038": {
+    "name": "女",
+    "meaning": "woman",
+    "hint": "a kneeling woman"
+  },
+  "rad-039": {
+    "name": "子",
+    "meaning": "child",
+    "hint": "a baby with arms out"
+  },
+  "rad-048": {
+    "name": "巛",
+    "meaning": "river",
+    "hint": "flowing water lines"
+  },
+  "rad-058": {
+    "name": "幺",
+    "meaning": "short thread",
+    "hint": "twisted silk threads"
+  },
+  "rad-061": {
+    "name": "彡",
+    "meaning": "hair / fur",
+    "hint": "three strands of hair"
+  },
+  "rad-075": {
+    "name": "止",
+    "meaning": "foot / stop",
+    "hint": "a footprint stopping"
+  },
+  "rad-085": {
+    "name": "水",
+    "meaning": "water",
+    "hint": "a winding stream"
+  },
+  "rad-086": {
+    "name": "火",
+    "meaning": "fire",
+    "hint": "flames rising"
+  },
+  "rad-096": {
+    "name": "犬",
+    "meaning": "dog",
+    "hint": "a dog with an extra dot"
+  },
+  "rad-104": {
+    "name": "罒",
+    "meaning": "net",
+    "hint": "a hanging net"
+  },
+  "rad-120": {
+    "name": "糸",
+    "meaning": "silk thread",
+    "hint": "a skein of silk"
+  },
+  "rad-133": {
+    "name": "缶",
+    "meaning": "jar",
+    "hint": "a clay pot"
+  },
+  "rad-140": {
+    "name": "艹",
+    "meaning": "grass",
+    "hint": "two grass blades"
+  },
+  "rad-144": {
+    "name": "⻝",
+    "meaning": "food / eat",
+    "hint": "a person at a bowl"
+  },
+  "rad-146": {
+    "name": "言",
+    "meaning": "speech",
+    "hint": "words coming from a mouth"
+  },
+  "rad-154": {
+    "name": "貝",
+    "meaning": "shell / money",
+    "hint": "a cowrie shell (old money)"
+  },
+  "rad-157": {
+    "name": "足",
+    "meaning": "foot",
+    "hint": "a foot and leg"
+  },
+  "rad-162": {
+    "name": "辶",
+    "meaning": "walk / road",
+    "hint": "a winding road"
+  },
+  "rad-167": {
+    "name": "門",
+    "meaning": "gate",
+    "hint": "double doors of a gate"
+  },
+  "rad-170": {
+    "name": "目",
+    "meaning": "eye",
+    "hint": "an eye with lashes"
+  },
+  "rad-178": {
+    "name": "人",
+    "meaning": "person",
+    "hint": "a walking person"
+  },
+  "rad-187": {
+    "name": "亻",
+    "meaning": "person (left form)",
+    "hint": "a leaning person"
+  },
+  "rad-190": {
+    "name": "儿",
+    "meaning": "legs",
+    "hint": "a pair of legs"
+  },
+  "rad-192": {
+    "name": "亠",
+    "meaning": "lid",
+    "hint": "a cap over a box"
+  },
+  "rad-202": {
+    "name": "山",
+    "meaning": "mountain",
+    "hint": "three peaks"
+  },
+  "rad-212": {
+    "name": "日",
+    "meaning": "sun / day",
+    "hint": "the sun disc"
+  },
+  "rad-213": {
+    "name": "月",
+    "meaning": "moon / month",
+    "hint": "a crescent moon"
+  },
+  "rad-214": {
+    "name": "木",
+    "meaning": "tree",
+    "hint": "a tree with branches and roots"
+  },
+  "rad-223": {
+    "name": "禾",
+    "meaning": "grain",
+    "hint": "a drooping rice stalk"
+  },
+  "rad-236": {
+    "name": "心",
+    "meaning": "heart / mind",
+    "hint": "a heart with chambers"
+  },
+  "rad-240": {
+    "name": "忄",
+    "meaning": "heart (left form)",
+    "hint": "a beating heart"
+  },
+  "rad-246": {
+    "name": "戈",
+    "meaning": "halberd",
+    "hint": "a spear with a hook"
+  },
+  "rad-272": {
+    "name": "阝",
+    "meaning": "mound / village",
+    "hint": "an ear-shaped hill"
+  },
+  "rad-301": {
+    "name": "魚",
+    "meaning": "fish",
+    "hint": "a fish with fins and tail"
+  },
+  "rad-159": {
+    "name": "車",
+    "meaning": "cart / vehicle",
+    "hint": "a wheeled cart seen from above"
+  },
+  "rad-280": {
+    "name": "冫",
+    "meaning": "ice",
+    "hint": "two frozen droplets"
+  }
+}

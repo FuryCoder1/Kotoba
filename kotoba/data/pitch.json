@@ -1,0 +1,258 @@
+[
+  {
+    "kana": "はし",
+    "moraCount": 2,
+    "accentLocation": 1,
+    "pattern": "HLL",
+    "type": "atamadaka",
+    "meaning": "bridge"
+  },
+  {
+    "kana": "はし",
+    "moraCount": 2,
+    "accentLocation": 2,
+    "pattern": "LHL",
+    "type": "odaka",
+    "meaning": "chopsticks"
+  },
+  {
+    "kana": "あめ",
+    "moraCount": 2,
+    "accentLocation": 1,
+    "pattern": "HLL",
+    "type": "atamadaka",
+    "meaning": "rain"
+  },
+  {
+    "kana": "あめ",
+    "moraCount": 2,
+    "accentLocation": 2,
+    "pattern": "LHL",
+    "type": "odaka",
+    "meaning": "candy"
+  },
+  {
+    "kana": "いち",
+    "moraCount": 2,
+    "accentLocation": 1,
+    "pattern": "HLL",
+    "type": "atamadaka",
+    "meaning": "one"
+  },
+  {
+    "kana": "に",
+    "moraCount": 1,
+    "accentLocation": 1,
+    "pattern": "HL",
+    "type": "atamadaka",
+    "meaning": "two"
+  },
+  {
+    "kana": "さん",
+    "moraCount": 2,
+    "accentLocation": 1,
+    "pattern": "HLL",
+    "type": "atamadaka",
+    "meaning": "three (loanword-like flat)"
+  },
+  {
+    "kana": "わたし",
+    "moraCount": 3,
+    "accentLocation": 0,
+    "pattern": "LHHH",
+    "type": "heiban",
+    "meaning": "I"
+  },
+  {
+    "kana": "がっこう",
+    "moraCount": 4,
+    "accentLocation": 0,
+    "pattern": "LHHHH",
+    "type": "heiban",
+    "meaning": "school"
+  },
+  {
+    "kana": "せんせい",
+    "moraCount": 4,
+    "accentLocation": 3,
+    "pattern": "LHHLL",
+    "type": "nakadaka",
+    "meaning": "teacher"
+  },
+  {
+    "kana": "がくせい",
+    "moraCount": 4,
+    "accentLocation": 0,
+    "pattern": "LHHHH",
+    "type": "heiban",
+    "meaning": "student"
+  },
+  {
+    "kana": "とうきょう",
+    "moraCount": 4,
+    "accentLocation": 0,
+    "pattern": "LHHHH",
+    "type": "heiban",
+    "meaning": "Tokyo"
+  },
+  {
+    "kana": "おおさか",
+    "moraCount": 4,
+    "accentLocation": 3,
+    "pattern": "LHHLL",
+    "type": "nakadaka",
+    "meaning": "Osaka"
+  },
+  {
+    "kana": "ほっかいどう",
+    "moraCount": 6,
+    "accentLocation": 0,
+    "pattern": "LHHHHHH",
+    "type": "heiban",
+    "meaning": "Hokkaido"
+  },
+  {
+    "kana": "みず",
+    "moraCount": 2,
+    "accentLocation": 1,
+    "pattern": "HLL",
+    "type": "atamadaka",
+    "meaning": "water"
+  },
+  {
+    "kana": "おみず",
+    "moraCount": 3,
+    "accentLocation": 3,
+    "pattern": "LHHL",
+    "type": "odaka",
+    "meaning": "water (polite)"
+  },
+  {
+    "kana": "ねこ",
+    "moraCount": 2,
+    "accentLocation": 1,
+    "pattern": "HLL",
+    "type": "atamadaka",
+    "meaning": "cat"
+  },
+  {
+    "kana": "いぬ",
+    "moraCount": 2,
+    "accentLocation": 1,
+    "pattern": "HLL",
+    "type": "atamadaka",
+    "meaning": "dog"
+  },
+  {
+    "kana": "たべる",
+    "moraCount": 3,
+    "accentLocation": 0,
+    "pattern": "LHHH",
+    "type": "heiban",
+    "meaning": "to eat"
+  },
+  {
+    "kana": "のむ",
+    "moraCount": 2,
+    "accentLocation": 1,
+    "pattern": "HLL",
+    "type": "atamadaka",
+    "meaning": "to drink"
+  },
+  {
+    "kana": "いきます",
+    "moraCount": 4,
+    "accentLocation": 3,
+    "pattern": "LHHLL",
+    "type": "nakadaka",
+    "meaning": "to go (polite)"
+  },
+  {
+    "kana": "つめたい",
+    "moraCount": 4,
+    "accentLocation": 3,
+    "pattern": "LHHLL",
+    "type": "nakadaka",
+    "meaning": "cold"
+  },
+  {
+    "kana": "おいしい",
+    "moraCount": 4,
+    "accentLocation": 0,
+    "pattern": "LHHHH",
+    "type": "heiban",
+    "meaning": "delicious"
+  },
+  {
+    "kana": "たかい",
+    "moraCount": 3,
+    "accentLocation": 2,
+    "pattern": "LHLL",
+    "type": "nakadaka",
+    "meaning": "expensive"
+  },
+  {
+    "kana": "やすい",
+    "moraCount": 3,
+    "accentLocation": 1,
+    "pattern": "HLLL",
+    "type": "atamadaka",
+    "meaning": "cheap"
+  },
+  {
+    "kana": "えき",
+    "moraCount": 2,
+    "accentLocation": 1,
+    "pattern": "HLL",
+    "type": "atamadaka",
+    "meaning": "station"
+  },
+  {
+    "kana": "でんしゃ",
+    "moraCount": 3,
+    "accentLocation": 1,
+    "pattern": "HLLL",
+    "type": "atamadaka",
+    "meaning": "train"
+  },
+  {
+    "kana": "きっぷ",
+    "moraCount": 3,
+    "accentLocation": 1,
+    "pattern": "HLLL",
+    "type": "atamadaka",
+    "meaning": "ticket"
+  },
+  {
+    "kana": "ひと",
+    "moraCount": 2,
+    "accentLocation": 2,
+    "pattern": "LHL",
+    "type": "odaka",
+    "meaning": "person"
+  },
+  {
+    "kana": "にほんご",
+    "moraCount": 4,
+    "accentLocation": 3,
+    "pattern": "LHHLL",
+    "type": "nakadaka",
+    "meaning": "Japanese language"
+  },
+  {
+    "kana": "ともだち",
+    "moraCount": 4,
+    "accentLocation": 3,
+    "pattern": "LHHLL",
+    "type": "nakadaka",
+    "meaning": "friend"
+  },
+  {
+    "kana": "なまえ",
+    "moraCount": 3,
+    "accentLocation": 0,
+    "pattern": "LHHH",
+    "type": "heiban",
+    "meaning": "name"
+  }
+]
